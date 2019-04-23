@@ -7,4 +7,4 @@
 # Donate
 
 I accept donations through: Alipay / Wechat Pay / QQ Pay , thank you!
-* [https://larix.cc/](https://larix.cc/ "https://larix.cc") 
+* [https://larix.cc/](https://larix.cc/ "") 
