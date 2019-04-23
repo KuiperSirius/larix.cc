@@ -1,6 +1,6 @@
 # larix.cc
 
-* #### [我的站点](https://larix.cc/ "Twilight Summer")  
+* #### [Twilight Summer](https://larix.cc/ "Twilight Summer")  
 
-![baidu](http://www.baidu.com/img/bdlogo.gif)  
+![Web Site](http://www.baidu.com/img/bdlogo.gif "Welcome to my web site.")  
 
