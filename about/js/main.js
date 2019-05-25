@@ -7,6 +7,7 @@ $('.menu a').click(function(){
     $(this).addClass('active');
 });
 
+
 function switchTo(target){
     $('.right section').each(function () {
         $(this).removeClass('active');
