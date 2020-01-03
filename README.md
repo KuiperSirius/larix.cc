@@ -1,6 +1,7 @@
-# larix.cc
+# Web Site
 
-* #### [Twilight Summer](https://larix.cc/ "https://larix.cc")  
+* #### [Twilight Summer](https://kixcs.com/ "https://kixcs.com")  
+* #### [Blog Page](https://larix.cc/ "https://larix.cc")  
 
 # Donate
 
